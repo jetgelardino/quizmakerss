@@ -95,6 +95,10 @@
               <input type="number" name="counts[fill]" class="form-control form-control-sm" placeholder="0" min="0" max="50" disabled>
             </div>
           </div>
+          <?php // Added for test tracking?>
+          <div class="type-group">
+            <input type="text" class="form-control form-control-sm">
+          </div>
           
             <div class="mb-3 text-end">
                 <div class="alert alert-warning py-2 px-3 mb-2" id="totalDisplay">
