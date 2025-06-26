@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpword": "*",
+        "spatie/pdf-to-text": "^1.54"
+    }
+}

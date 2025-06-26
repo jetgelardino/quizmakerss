@@ -1,0 +1,66 @@
+ECommerce & POS Integration for
+Red Roosters
+Prepared by: Jet Gelardino
+Date: April 15, 2024
+Client: Antonio Gomes | Red Rooster
+To streamline restaurant operations and open new sales channels, this project will
+implement an online ordering system using WooCommerce, integrate it with a
+modern POS system for walk-in and phone orders, and ensure secure infrastructure
+with a third-party security audit.
+
+Milestone 1: WooCommerce & POS Integration
+Goal: Set up a unified system for managing both online and walk-in/phone
+
+orders.
+●​ Upload all products on WooCommerce with complete details (image, description,
+price)
+●​ Install and test best-fit POS system (e.g., HikePOS, OpenPOS, VitePOS,
+ConnectPOS, or FooSales)
+○​ Evaluate features and compatibility
+○​ Recommend one based on restaurant needs
+●​ Integrate POS with WooCommerce
+○​ Shared inventory
+○​ Smooth order management
+●​ Implement Contact Recognition
+○​ Track customer details via phone/email
+○​ Enable order lookup & targeted marketing
+
+Milestone 2: Security Network Testing & Hardening
+Goal: Secure the system for online transactions and internal operations.
+
+●​ Identify and coordinate with a third-party Security Consultant
+○​ Perform full audit of website + POS infrastructure
+●​ Internal Security Improvements:
+
+○​ SSL certificate and HTTPS redirection
+○​ Web app firewall (WAF) setup
+○​ Backend code vulnerability check
+○​ Recommendations for secure device/network use
+Milestone 3: SEO & Deployment
+Goal: Make the ordering system visible, functional, and ready for real-world use.
+●​ On-page SEO setup for online ordering pages
+○​ Meta titles, descriptions, alt tags, schema​
+●​ Final deployment and testing
+○​ Live order testing
+○​ Staff onboarding for POS use
+○​ Post-launch checkup
+
+Total Project Cost
+$1,800 CAD
+
+🔹 This is a one-time project fee, inclusive of planning, development, and launch.​
+🔹 Ongoing maintenance or additional features can be scoped separately if
+needed.
+
+Next Steps
+1.​ Confirm acceptance of the proposal
+2.​ Initial kickoff and product data gathering
+3.​ Testing and selecting the best-fit POS system
+4.​ Begin WooCommerce + POS setup
+5.​ Coordinate with 3rd party security auditor​
+
+If all looks good, just reply to my email with:​
+“LET’S DO IT” — then I’ll proceed with the development right away and keep you
+updated on the progress.
+
+

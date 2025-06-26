@@ -1,0 +1,43 @@
+Cavaleiro Farm Website Development
+Proposal
+Prepared by: Jet Gelardino
+Date: April 8, 2024
+Client: Antonio Gomes
+This project aims to restore and redesign Cavaleiro Farm's online presence while
+prioritizing privacy and limited search engine visibility (Anti-SEO). The work will be done
+in three key phases, each with clearly defined deliverables.
+
+Phase 1: Recovery & Initial Setup
+1.​ Recover existing website data and WordPress environment
+2.​ Point domain to the correct hosting and database
+3.​ Create a basic homepage layout
+4.​ Initial archive page design (e.g., blog or post listings)
+5.​ Initial post template
+6.​ Implement anti-SEO measures (robots.txt, noindex tags)
+Phase 2: Functional Design Expansion
+1.​ Refine and complete homepage with detailed content & visuals
+2.​ Booking system integration for the cabin (Airbnb or Booking App)
+3.​ Add interactive map access for directions or location view
+4.​ Custom layout for posts tailored to Cavaleiro Farm's style
+5.​ Create a dedicated landing page for Offers or Promotions
+Phase 3: Privacy & Final Launch
+1.​ Final check for any Google or bot crawling vulnerabilities
+2.​ Review and update WHOIS information
+3.​ Perform a soft launch with client approval
+
+Project Details
+●​ Platform: WordPress
+●​ Content & graphics: Provided by client
+●​ Booking platform: To be integrated based on client’s preference
+●​ SEO: Strict Anti-SEO measures as requested​
+
+Total Project Cost
+$1850 CAD (approx. $1370 USD)​
+Payable in milestones per phase or as agreed.
+
+Next Step
+If all looks good, just reply:
+"LET’S DO IT" to my email — then I’ll proceed with the development, as I’ve already
+started most of Phase 1 in preparation.
+
+

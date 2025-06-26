@@ -1,0 +1,31 @@
+{
+    "id": "chatcmpl-d3cb1176-2003-4b81-825b-53a37ee270c9",
+    "object": "chat.completion",
+    "created": 1750925567,
+    "model": "llama3-8b-8192",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here are the 10 multiple-choice questions based on the lesson content:\n\n=== Multiple Choice ===\n\n1. What is speech, according to the lesson?\nA) Written communication\nB) Human vocal communication\nC) Visual communication\nD) Non-verbal communication\n\nAnswer: B) Human vocal communication\n\n2. What are the characteristics of a good speech?\nA) It should be delivered in an emotional and biased way\nB) It should be delivered in an unbiased and unemotional way\nC) It should be delivered only through written words\nD) It should be delivered only through visual aids\n\nAnswer: B) It should be delivered in an unbiased and unemotional way\n\n3. Why should you write two simple phrases instead of one long, complicated sentence in your speech?\nA) To make it more difficult to understand\nB) To make it more entertaining\nC) To make it easier to understand and remember\nD) To make it more formal\n\nAnswer: C) To make it easier to understand and remember\n\n4. What should you do when writing your speech?\nA) Write it down without reading it aloud\nB) Read it aloud as you write it down\nC) Write it down and then translate it into another language\nD) Write it down and then edit it extensively\n\nAnswer: B) Read it aloud as you write it down\n\n5. What is the purpose of research in writing an effective speech?\nA) To make it more persuasive\nB) To make it more informative\nC) To make it more engaging\nD) To make it more memorable\n\nAnswer: A) To make it more persuasive\n\n6. What should you do when delivering your speech?\nA) Speak in a loud and aggressive tone\nB) Speak in a soft and gentle tone\nC) Speak in a clear and concise tone\nD) Speak in a muffled and unclear tone\n\nAnswer: C) Speak in a clear and concise tone\n\n7. What is the role of the audience in a speech event?\nA) To listen attentively and respond actively\nB) To ignore the speaker and walk away\nC) To sleep or daydream during the speech\nD) To talk loudly and interrupt the speaker\n\nAnswer: A) To listen attentively and respond actively\n\n8. What is the importance of expression in a speech?\nA) It should be vague and unclear\nB) It should be transparent and unambiguous\nC) It should be complex and difficult to understand\nD) It should be simple and easy to forget\n\nAnswer: B) It should be transparent and unambiguous\n\n9. What is the purpose of a speech event?\nA) To entertain the audience\nB) To educate the audience\nC) To persuade the audience\nD) To inform the audience\n\nAnswer: C) To persuade the audience\n\n10. What is the role of the speaker in a speech event?\nA) To dominate the conversation and interrupt others\nB) To engage the audience and encourage participation\nC) To deliver the speech without any interaction\nD) To ignore the audience and talk only to oneself\n\nAnswer: B) To engage the audience and encourage participation"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "queue_time": 0.273491952,
+        "prompt_tokens": 1249,
+        "prompt_time": 0.193340438,
+        "completion_tokens": 646,
+        "completion_time": 1.164951394,
+        "total_tokens": 1895,
+        "total_time": 1.358291832
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8b7c3a83f7",
+    "x_groq": {
+        "id": "req_01jynmqrtwfaktk1k8whn0q8tf"
+    }
+}
